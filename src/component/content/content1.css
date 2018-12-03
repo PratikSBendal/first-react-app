@@ -1,0 +1,35 @@
+.prime-banner {
+    width: 100%;
+  }
+  .Now-Rent-Brand-New-M {
+  width: 348px;
+  height: 144px;
+  font-family: MillerBanner;
+  font-size: 24px;
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.5;
+  letter-spacing: 0.2px;
+  text-align: center;
+  color: #252a38;
+}
+.mdl-grid.center-items {
+    justify-content: center;
+  }
+  .know-more {
+    width: 160px;
+    height: 60px;
+    border: none;
+    border-radius: 4px;
+    background-color: #ed5440;
+    cursor: pointer;
+  }
+  .know-more .text
+  {
+    font-family: AvenirNextLTPro-Medium;
+    font-size: 20px;
+    font-weight: 500;
+    color: #ffffff;
+    cursor: pointer;
+  }
